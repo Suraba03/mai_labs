@@ -1,0 +1,392 @@
+[suraba04@asusx512fl ~]$ cmp a b
+a b differ: byte 1, line 1
+[suraba04@asusx512fl ~]$ cat a
+kzjsfn;kbjbf'bkj IEURFFVOJ 'FJgpuoeNB'BLKN[EUB[vn'UWOGHNA'KNDF;VOUAO B'BLJANI
+[suraba04@asusx512fl ~]$ cat b
+shjg;kvhFIVH JVJlSNFbvb;NIGGERSKJNDGOJNA;DJLGN;OADFNFBN;DNNIGGERSKJAFNVABELKVNIGGERSNIGGERNIGGER
+[suraba04@asusx512fl ~]$ cmp -b a b
+a b differ: byte 1, line 1 is 153 k 163 s
+[suraba04@asusx512fl ~]$ diff a b
+1c1
+< nnnnNIGGERSssss
+---
+> 
+[suraba04@asusx512fl ~]$ diff -q a b
+Files a and b differ
+[suraba04@asusx512fl ~]$ od a
+0000000 067156 060556 064545 064157 060542 062133 067565 067150
+0000020 066073 071152 067147 061144 065073 070553 067162 035547
+0000040 065142 060556 063552 067142 064560 064541 067165
+0000060 061146 066073 065152 047156 043511 042507 051522 065144
+0000100 067146 066166 060551 067144 067142 060551 062142 063154
+0000120 064153 064142 064154 063542 064557 071563 071563 065412
+0000140 065163 063172 066142 060550 020150 062146 066166 060550
+0000160 061144 066146 064166 046040 044106 044126 000012
+0000175
+[suraba04@asusx512fl ~]$ vim a
+
+[2]+  Stopped                 vim a
+[suraba04@asusx512fl ~]$ cat a
+nnnaeiohba[duohn;ljrgndb;jkqrng;bjna;ljgbnpiaiunfb;ljjnNIGGERSdjfnvliadnbniabdlfkhbhlhbgoissss
+ksjzfblhah fdvlhadbflvh LFHVH
+[suraba04@asusx512fl ~]$ du -h labs/
+184K	labs/archive
+12K	labs/.vscode
+1,5M	labs/лаб2
+12K	labs/lab12/.vscode
+124K	labs/lab12/arcive
+516K	labs/lab12
+16K	labs/lab11/.vscode
+124K	labs/lab11/bin
+1,4M	labs/lab11
+324K	labs/лаб6/l06-2011-JDT-2.2c.jar
+480K	labs/лаб6
+96K	labs/лаб3
+1,7M	labs/Материалы
+12K	labs/лаб9/.vscode
+192K	labs/лаб9
+28K	labs/лаб7/l07-nam/__MACOSX/nam
+36K	labs/лаб7/l07-nam/__MACOSX
+40K	labs/лаб7/l07-nam/nam
+80K	labs/лаб7/l07-nam
+920K	labs/лаб7
+84K	labs/lab10
+16K	labs/lab13/.vscode
+232K	labs/lab13
+1,9M	labs/report
+12K	labs/course_project/KP3/.vscode
+784K	labs/course_project/KP3
+1,7M	labs/course_project/other/mai_1_sem_course_project/èÅ 2
+188K	labs/course_project/other/mai_1_sem_course_project/èÅ 3
+280K	labs/course_project/other/mai_1_sem_course_project/èÅ 4
+6,4M	labs/course_project/other/mai_1_sem_course_project/èÅ 1
+96K	labs/course_project/other/mai_1_sem_course_project/ÉÑΣÑαáΓ
+8,6M	labs/course_project/other/mai_1_sem_course_project
+868K	labs/course_project/other/odt_norm_view
+14M	labs/course_project/other/maxim
+8,3M	labs/course_project/other/archive3
+32M	labs/course_project/other
+5,0M	labs/course_project/KP1
+8,0K	labs/course_project/KP4/.vscode
+180K	labs/course_project/KP4
+1,5M	labs/course_project/KP2
+39M	labs/course_project
+348K	labs/лаб5/l05-2011_jstu4-2.3/jstu4-2.3/jstu4
+364K	labs/лаб5/l05-2011_jstu4-2.3/jstu4-2.3
+464K	labs/лаб5/l05-2011_jstu4-2.3
+160K	labs/лаб5/неудачи
+776K	labs/лаб5
+128K	labs/лаб8
+17M	labs/Условия
+16K	labs/course_c/.idea
+20K	labs/course_c/.vscode
+564K	labs/course_c
+16K	labs/lab14/.vscode
+176K	labs/lab14
+16K	labs/lab15/.vscode
+276K	labs/lab15
+52K	labs/labs-answers/1-2
+156K	labs/labs-answers/9
+124K	labs/labs-answers/5
+26M	labs/labs-answers/6
+12K	labs/labs-answers/21/test
+60K	labs/labs-answers/21
+84K	labs/labs-answers/13
+216K	labs/labs-answers/22
+104K	labs/labs-answers/25-26
+916K	labs/labs-answers/8
+28K	labs/labs-answers/3
+48K	labs/labs-answers/24
+76K	labs/labs-answers/7
+112K	labs/labs-answers/10
+104K	labs/labs-answers/11-12
+40K	labs/labs-answers/20
+40K	labs/labs-answers/23
+56K	labs/labs-answers/14
+56K	labs/labs-answers/15
+28M	labs/labs-answers
+94M	labs/
+[suraba04@asusx512fl лаб2]$ find -name *.txt | xargs grep "др"
+[suraba04@asusx512fl календарь]$ mkdir др дедлайны праздники дела
+дедлайны  дела  др  праздники
+[suraba04@asusx512fl календарь]$ cd др
+[suraba04@asusx512fl др]$ mkdir друзья родст
+[suraba04@asusx512fl др]$ ls
+друзья  родст
+[suraba04@asusx512fl др]$ cd друзья
+[suraba04@asusx512fl друзья]$ nano f
+[suraba04@asusx512fl друзья]$ ls
+[suraba04@asusx512fl друзья]$ cat f
+28 июнь 2003     - Андрюха
+[suraba04@asusx512fl друзья]$ cd ..
+[suraba04@asusx512fl др]$ ls
+друзья  родст
+[suraba04@asusx512fl др]$ cd родст
+[suraba04@asusx512fl др]$ cd ..
+дедлайны  дела  др  праздники
+дедлайны  дела  др  праздники
+[suraba04@asusx512fl календарь]$ cat др/друзья/f др/родст/f праздники/f|grep сентябрь|sort -nk1|head -n2
+[suraba04@asusx512fl лаб2]$
+[suraba04@asusx512fl lab13]$ indent v6.c
+[suraba04@asusx512fl lab13]$ cat v6.c
+#include <stdio.h>
+#include <stdint.h>
+
+int
+is_split_simb (int c)
+{
+  return c == ' ' || c == '\t' || c == ',' || c == '\n';
+}
+
+uint32_t
+char_to_set (char c)
+{
+  if (c < 'a' || c > 'z')
+    {
+      return 0;
+    }
+  else
+    {
+      return 1u << (c - 'a');
+    }
+}
+
+int
+main (void)
+{
+  uint32_t VOWELS =
+    (1u << ('a' - 'a') | 1u << ('e' - 'a') | 1u << ('i' - 'a') | 1u <<
+     ('o' - 'a') | 1u << ('u' - 'a'));
+  int c, check _out = 0;
+  uint32_t letters_set = 0;
+
+  while ((c = getchar ()) != EOF)
+    {
+      if (!(is_split_simb (c)))
+	{
+	  if (((1u << (c - 'a')) & VOWELS) != 0)
+	    {
+	      letters_set = letters_set | char_to_set (c);
+	      if (((letters_set & ~(1u << ('a' - 'a'))) == 0))
+		{
+		  chec k_out = 1;
+		}
+	      else if (((letters_set & ~(1u << ('e' - 'a'))) == 0))
+		{
+		  check_out = 1;
+		}
+	      else if (((letters_set & ~(1u << ('i' - 'a'))) == 0))
+		{
+		  check_out = 1;
+		}
+	      else if (((letters_set & ~(1u << ('o' - 'a'))) == 0))
+		{
+		  check_out = 1;
+		}
+	      else if (((letters_set & ~(1u << ('u' - 'a'))) == 0))
+		{
+		  check_out = 1;
+		}
+	      else
+		{
+		  check_out = 0;
+		}
+	    }
+	}
+      else
+	{
+	  if (check_ou t == 0)
+	    {
+	      letters_set = 0;
+	    }
+	  else
+	    {
+	      break;
+	    }
+	}
+    }
+  if (check_out == 1)
+    {
+      printf ("Yes\n");
+    }
+  else
+    {
+      printf ("No\n");
+    }
+  return 0;
+}
+[suraba04@asusx512fl labs]$ ls -l | tee out.txt
+total 100
+drwxr-xr-x  2 suraba04 suraba04 4096 ноя 21 09:33 archive
+drwxr-xr-x  4 suraba04 suraba04 4096 дек 22 14:26 course_c
+drwxr-xr-x  7 suraba04 suraba04 4096 дек 22 10:10 course_project
+drwxr-xr-x  2 suraba04 suraba04 4096 дек  5 10:20 lab10
+drwxr-xr-x  4 suraba04 suraba04 4096 дек 24 10:58 lab11
+drwxr-xr-x  4 suraba04 suraba04 4096 дек  5 11:23 lab12
+drwxr-xr-x  3 suraba04 suraba04 4096 фев 13 16:04 lab13
+drwxr-xr-x  3 suraba04 suraba04 4096 дек 24 11:17 lab14
+drwxr-xr-x  3 suraba04 suraba04 4096 янв 22 12:52 lab15
+drwxr-xr-x 20 suraba04 suraba04 4096 сен 17 13:27 labs-answers
+-rw-r--r--  1 suraba04 suraba04   24 дек 23 13:50 link
+-rw-r--r--  1 suraba04 suraba04    0 фев 13 16:08 out.txt
+-rw-r--r--  1 suraba04 suraba04 5965 фев 13 16:05 prot1
+drwxr-xr-x  2 suraba04 suraba04 4096 дек 29 01:41 report
+-rw-r--r--  1 suraba04 suraba04   53 дек 28 15:53 варики
+drwxr-xr-x  2 suraba04 suraba04 4096 фев 13 15:59 лаб2
+drwxr-xr-x  2 suraba04 suraba04 4096 окт  8 16:20 лаб3
+drwxr-xr-x  4 suraba04 suraba04 4096 окт 17 11:13 лаб5
+drwxr-xr-x  3 suraba04 suraba04 4096 окт 17 11:15 лаб6
+drwxr-xr-x  3 suraba04 suraba04 4096 окт 30 22:06 лаб7
+drwxr-xr-x  2 suraba04 suraba04 4096 ноя 13 20:13 лаб8
+drwxr-xr-x  3 suraba04 suraba04 4096 ноя 13 20:19 лаб9
+drwxr-xr-x  2 suraba04 suraba04 4096 дек 19 12:11 Материалы
+-rw-r--r--  1 suraba04 suraba04   82 дек 13 18:41 степик_си
+drwxr-xr-x  2 suraba04 suraba04 4096 дек 23 10:54 Условия
+[suraba04@asusx512fl ~]$ sed  "s/IGG/***/g" b.txt
+N***ERS
+[suraba04@asusx512fl ~]$ dd if=b.txt of=labs/byte.txt
+0+1 records in
+0+1 records out
+13 bytes copied, 0,00034662 s, 37,5 kB/s
+
+AWK:
+
+[suraba04@asusx512fl ~]$ sed "s/,/\t/g" for_awk1.csv 
+step_id	timestamp	action	user_id
+32815	1434340848	viewed	17632
+32815	1434340848	passed	17632
+32815	1434340848	discovered	17632
+32811	1434340895	discovered	17632
+32811	1434340895	viewed	17632
+32811	1434340895	passed	17632
+32929	1434340921	discovered	17632
+32929	1434340921	viewed	17632
+32929	1434340939	started_attempt	17632
+32929	1434340944	passed	17632
+32814	1434340950	viewed	17632
+32814	1434340950	discovered	17632
+32814	1434340950	passed	17632
+32812	1434340991	viewed	17632
+32812	1434340991	discovered	17632
+32812	1434341016	started_attempt	17632
+32812	1434341039	passed	17632
+32816	1434341044	viewed	17632
+32816	1434341044	passed	17632
+32816	1434341044	discovered	17632
+32930	1434341063	discovered	17632
+32930	1434341063	viewed	17632
+32930	1434341063	passed	17632
+32979	1434341098	viewed	17632
+32979	1434341098	discovered	17632
+32979	1434341098	passed	17632
+32927	1434341107	passed	17632
+32927	1434341107	discovered	17632
+32927	1434341107	viewed	17632
+32191	1434341195	passed	17632
+32191	1434341195	viewed	17632
+32191	1434341195	discovered	17632
+32927	1434341379	viewed	17632
+32979	1434341385	viewed	17632
+32930	1434341388	viewed	17632
+32816	1434341390	viewed	17632
+32815	1434341931	passed	12494
+32815	1434341931	discovered	12494
+32815	1434341931	viewed	12494
+32811	1434341937	viewed	12494
+32811	1434341937	passed	12494
+32811	1434341937	discovered	12494
+32929	1434341943	discovered	12494
+32929	1434341943	viewed	12494
+32930	1434341946	passed	12494
+32930	1434341946	discovered	12494
+32930	1434341946	viewed	12494
+32814	1434341948	viewed	12494
+32814	1434341948	discovered	12494
+32814	1434341948	passed	12494
+32812	1434341952	discovered	12494
+32812	1434341952	viewed	12494
+32816	1434341964	passed	12494
+32816	1434341964	viewed	12494
+32816	1434341964	discovered	12494
+32930	1434341986	viewed	12494
+32979	1434341989	viewed	12494
+32979	1434341989	discovered	12494
+32979	1434341989	passed	12494
+32815	1434342029	viewed	442
+32815	1434342029	passed	442
+32815	1434342029	discovered	442
+32815	1434342042	viewed	22254
+32815	1434342042	discovered	22254
+32815	1434342042	passed	22254
+32811	1434342049	viewed	22254
+32811	1434342049	passed	22254
+32811	1434342049	discovered	22254
+32811	1434342092	viewed	442
+32811	1434342092	discovered	442
+32811	1434342092	passed	442
+32929	1434342097	discovered	442
+32929	1434342097	viewed	442
+32929	1434342100	started_attempt	442
+32929	1434342105	passed	442
+32814	1434342108	passed	442
+32814	1434342108	viewed	442
+32814	1434342108	discovered	442
+32812	1434342112	viewed	442
+32812	1434342112	discovered	442
+32812	1434342114	started_attempt	442
+32812	1434342148	started_attempt	442
+32812	1434342156	passed	442
+32816	1434342157	discovered	442
+32816	1434342157	passed	442
+32816	1434342157	viewed	442
+32929	1434342175	viewed	22254
+32929	1434342175	discovered	22254
+32927	1434342213	passed	12494
+32927	1434342213	discovered	12494
+32927	1434342213	viewed	12494
+32191	1434342221	passed	12494
+32191	1434342221	viewed	12494
+32191	1434342221	discovered	12494
+32815	1434342230	discovered	6646
+32815	1434342230	passed	6646
+32815	1434342230	viewed	6646
+32811	1434342233	passed	6646
+32811	1434342233	discovered	6646
+[suraba04@asusx512fl ~]$ sed "s/,/\t/g" for_awk1.csv | awk '$3 == "passed" || $3 == "action" { print $4 }' > ~/passed
+[suraba04@asusx512fl ~]$ cat passed
+user_id
+17632
+17632
+17632
+17632
+17632
+17632
+17632
+17632
+17632
+17632
+12494
+12494
+12494
+12494
+12494
+12494
+442
+22254
+22254
+442
+442
+442
+442
+442
+12494
+12494
+6646
+6646
+
+
+
+
+
+
+

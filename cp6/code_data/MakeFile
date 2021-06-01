@@ -1,0 +1,16 @@
+all: run
+
+full: client.o table.o
+	gcc client.o table.o -o full
+
+client.o: client.c
+	gcc -c client.c
+
+table.o: table.c
+	gcc -c table.c
+
+run: full
+	./full
+
+clean:
+	rm -rf *.o full

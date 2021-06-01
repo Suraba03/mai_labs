@@ -1,0 +1,19 @@
+all: run
+
+full: client.o Qsort.o list.o
+	gcc client.o Qsort.o list.o -o full
+
+client.o: client.c
+	gcc -c client.c
+
+Qsort.o: Qsort.c
+	gcc -c Qsort.c
+
+list.o: list.c
+	gcc -c list.c
+
+run: full
+	./full
+
+clean:
+	rm -rf *.o full

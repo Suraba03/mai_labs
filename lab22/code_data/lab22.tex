@@ -1,0 +1,121 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{ upgreek }
+\usepackage{ tipa }
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[english,russian]{babel}
+\usepackage{amsmath,amsfonts,amssymb,amsthm,mathtools}
+
+\begin{document}
+
+\subsection*{13.3 Формулы Тейлора\\для основных элементарных функций}
+
+\quad1. $f(x) = \sin x$. Функция $\sin x$ обладает производными всех порядков. Найдем для нее формулу Тейлора при $x_0=0$, т.е. формулу Маклорена (13.8). Было доказано (см. п. 10.1), что $(\sin x)^{(m)}=\sin (x+m\frac{\pi}{2})$, поэтому 
+
+\[
+    f^{(m)}(0)=\sin \frac{m\pi}{2}= 
+    \left\{
+        \begin{array}{rcl}
+            0 \hspace{15mm} \text{для } m = 2k, \\
+            (-1)^{k} \hspace{5mm} \text{для } m = 2k + 1,\\
+        \end{array}
+    \right.
+    k = 0, 1, 2, ... , \eqno(13.16)
+\] \\
+
+и, согласно формуле (13.5), \\
+
+\[
+    \sin x = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + ... +
+    (-1)^n \frac{x^{2n + 1}}{(2n + 1)!} + o(x^{2n + 2})
+\],\\
+
+при $x \longrightarrow 0, n=0, 1, 2, ... ,$ или, короче,
+\[
+    \sin x = \sum_{k = 0}^n (-1)^k \frac{x^{2k + 1}}{(2k + 1)!} + o(x^{2n + 2})
+    \text{ при } x \longrightarrow 0.
+\]
+Мы записали здесь остаточный член в виде $o(x^{2n + 2})$, а не в виде $o(x^{2n + 1})$,
+так как следующий за последним выписанным слагаемым член многочлена Тейлора, в силу 
+(13.16), равен нулю.
+
+2. $ f(x) = \cos x $. Как известно (см. п. 10.1),
+\[
+    f^{(m)} (x) = \cos (x + \frac{m\pi}{2}),
+\]
+поэтому \\
+\[
+    f^{(m)} (0) = \cos \frac{m\pi}{2} = 
+    \left\{
+        \begin{array}{rcl}
+            0& \hspace{7mm} \text{для } m = 2k + 1, \\
+            (-1)^{k}& \text{для } m = 2k,\\
+        \end{array}
+    \right.
+    k = 0, 1, 2, ... ,
+\]
+и 
+\[
+    \cos x = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + ... +
+    (-1)^n \frac{x^{2n}}{(2n)!} + o(x^{2n + 1}),
+\]
+при $x \longrightarrow 0 $, или, короче,
+\[
+    \cos x = \sum_{k = 0}^n (-1)^k \frac{x^{2k}}{(2k)!} + o(x^{2n + 1})
+\]
+при $x \longrightarrow 0, n = 0, 1, 2, ... .$
+
+3. $ f(x) = e^x $. Так как $ (e^x)^{(n)} = e^x $, то $ f^{(n)} (0) = 1, n = 0, 1, ... , $ \\ следовательно, 
+\[
+    e^x = 1 + x + \frac{x^2}{2!} + \frac{x^3}{3!} + \frac{x^4}{4!} + ... +
+    \frac{x^{n}}{n!} + o(x^{n}), \eqno(13.17)
+\]
+при $ x \longrightarrow 0, n=0, 1, 2, ... , $ или, короче,
+\[
+    e^x = \sum_{k = 0}^n \frac{x^k}{k!} + o(x^n) \text{ при }
+    x \longrightarrow 0. 
+\]
+Отсюда, заменив x через -x, получим 
+\[
+    e^{-x} = \sum_{k = 0}^n (-1)^k \frac{x^k}{k!} + o(x^n) \eqno(13.18)
+\]
+при $x \longrightarrow 0, n = 0, 1, 2, ... .$
+
+4. $ \sh x = \frac{e^x - e^{-x}}{2} $ и $ \ch x = \frac{e^x + e^{-x}}{2} $. Сложив и вычтя (13.17) и (13.18), при $ x \longrightarrow 0, n=0, 1, 2, ... $ будем иметь 
+\[
+    \sh x = \sum_{k = 0}^n \frac{x^{2k + 1}}{(2k + 1)!} + o(x^{2n + 2}), 
+    \ch x = \sum_{k = 0}^n \frac{x^{2k}}{(2k)!} + o(x^{2n + 1}).
+\]
+
+В силу единственности представления функции  в указанном виде (см. п. 13.2), полученные соотношения являются формулами Тейлора для функций $ \sh x $ и $ \ch x $.
+
+5. $ f(x) = (1 + x)^\alpha $, где $\alpha$ -- некоторое фиксированное число, а 
+$ x \textgreater -1 $. Так как 
+\[
+    f^{(n)} (x) = \alpha(\alpha - 1) ... (\alpha - n + 1)(1 + x)^{\alpha - n},
+\]
+то
+\[
+    f^{(n)} (0) = \alpha(\alpha - 1) ... (\alpha - n + 1),
+\]
+следовательно,
+\[
+    (1 + x)^{\alpha} = 1 + \alpha x + \frac{\alpha(\alpha - 1)}{2} x^2 
+    + \frac{\alpha(\alpha - 1)(\alpha - 2)}{3!} x^3 + ... + 
+    \frac{\alpha(\alpha - 1)...(\alpha - n + 1)}{n!} x^n + o(x^n)
+\]
+при $ x \longrightarrow 0 $, или, короче,
+\[
+    (1 + x)^{\alpha} = 1 + \sum_{k = 1}^n \frac{\alpha(\alpha - 1)...
+    (\alpha - k + 1)}{k!} x^k + o(x^n)
+    \text{ при } x \longrightarrow 0, n = 1, 2, ... . \eqno(13.19)  
+\]
+
+Если $ \alpha = n $ -- неотрицательное целое $ (n = 0, 1, 2, ...) $, то функция 
+$ f(x) = (1 + x)^n $ является многочленом степени $n$, и имеет место тождество
+\[
+    f(x) = Q_n(x) + o((x - x_0)^n), x \longrightarrow x_0, 
+\]
+
+\end{document}
+

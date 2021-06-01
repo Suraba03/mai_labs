@@ -1,0 +1,16 @@
+all: run
+
+full: client.o tree.o
+	gcc client.o tree.o -o full
+
+client.o: client.c
+	gcc -c client.c
+
+tree.o: tree.c
+	gcc -c tree.c
+
+run: full
+	./full
+
+clean:
+	rm -rf *.o full

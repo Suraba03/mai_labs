@@ -1,0 +1,19 @@
+all: run
+
+full: client.o matrix.o vector.o
+	gcc client.o matrix.o vector.o -o full
+
+client.o: client.c
+	gcc -c client.c
+
+matrix.o: matrix.c
+	gcc -c matrix.c
+
+vector.o: vector.c
+	gcc -c vector.c
+
+run: full
+	./full
+
+clean:
+	rm -rf *.o full
