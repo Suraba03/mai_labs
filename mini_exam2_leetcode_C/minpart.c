@@ -3,6 +3,7 @@
 
 #define STR_LEN 100000
 
+// функция: ищем максимальную цифру в строке, ее и возвращаем
 int minPartitions(char *n)
 {
     int m = 0;
