@@ -62,6 +62,14 @@ $ make -f MakeFile clean
     
 #### mini_exam1_python_script - ??:
     задание - решить задачу из lab21 на языке python
+    
+#### mini_exam2_leetcode_C - 1689:
+    задача - Partitioning Into Minimum Number Of Deci-Binary Numbers
+    пример:
+        Input: n = "32"
+        Output: 3
+        Explanation: 10 + 11 + 11 = 32
+
 
 
 
