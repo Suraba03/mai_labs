@@ -1,19 +1,19 @@
-# тут вся моя прога за второй сем
+# There is all my code for 2nd semester of 1st year
 
-## в каждой папке есть папка code_data - там хранится код, данные и MakeFile
+## each folder has nested folder `code_data` - there is code, data and MakeFile
 
-## как запустить MakeFile?
+## how to run MakeFile?
 
-+ чтобы собрать и запустить
++ build and run
 ```bash
 $ make -f MakeFile
 ```
-+ чтобы удалить файлы .o и запускаемый файл full
++ remove files like `*.o` and executable file `full`
 ```bash
 $ make -f MakeFile clean
 ```
 
-## варианты
+## conditions
 #### lab20 - ??
     без варианта, нужно было просто потыкать команды
 #### lab21 - 16:
