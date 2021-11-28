@@ -1,0 +1,149 @@
+(base) [suraba04@asusx512fl лаб8]$ gcc -g B.c -o B
+(base) [suraba04@asusx512fl лаб8]$ gdb B
+GNU gdb (GDB) 10.1
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from B...
+(gdb) b main
+Breakpoint 1 at 0x1161: file B.c, line 4.
+(gdb) run
+Starting program: /home/suraba04/labs/лаб8/B 
+
+Breakpoint 1, main () at B.c:4
+4	{
+(gdb) next
+6	    s = 0;
+(gdb) l
+1	#include <stdio.h>
+2	
+3	int main(void)
+4	{
+5	    int n, a, s;
+6	    s = 0;
+7	    scanf("%d", &n);
+8	    for (int i = 0; i < n; i++) {
+9	        scanf("%d", &a);
+10	        s += a;
+(gdb) l
+11	    }
+12	    printf("%d\n", s);
+13	    return 0;
+14	}
+(gdb) n
+7	    scanf("%d", &n);
+(gdb) n
+n
+8	    for (int i = 0; i < n; i++) {
+(gdb) print s
+$1 = 0
+(gdb) ptype n
+type = int
+(gdb) set var s = 2
+(gdb) print s
+$2 = 2
+(gdb) s
+9	        scanf("%d", &a);
+(gdb) n
+10	        s += a;
+(gdb) q
+A debugging session is active.
+
+	Inferior 1 [process 263092] will be killed.
+
+Quit anyway? (y or n) y
+(base) [suraba04@asusx512fl лаб8]$ gbd B
+bash: gbd: command not found
+(base) [suraba04@asusx512fl лаб8]$ ^C
+(base) [suraba04@asusx512fl лаб8]$  gcc -g B.c -o B
+(base) [suraba04@asusx512fl лаб8]$ gdb B
+GNU gdb (GDB) 10.1
+Copyright (C) 2020 Free Software Foundation, Inc.
+License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+This is free software: you are free to change and redistribute it.
+There is NO WARRANTY, to the extent permitted by law.
+Type "show copying" and "show warranty" for details.
+This GDB was configured as "x86_64-pc-linux-gnu".
+Type "show configuration" for configuration details.
+For bug reporting instructions, please see:
+<https://www.gnu.org/software/gdb/bugs/>.
+Find the GDB manual and other documentation resources online at:
+    <http://www.gnu.org/software/gdb/documentation/>.
+
+For help, type "help".
+Type "apropos word" to search for commands related to "word"...
+Reading symbols from B...
+(gdb) break main
+Breakpoint 1 at 0x1161: file B.c, line 4.
+(gdb) s
+The program is not being run.
+(gdb) run
+Starting program: /home/suraba04/labs/лаб8/B
+
+Breakpoint 1, main () at B.c:4
+4	{
+(gdb) s
+6	    s = 0;
+(gdb) n
+7	    scanf("%d", &n);
+(gdb) l
+2	
+3	int main(void)
+4	{
+5	    int n, a, s;
+6	    s = 0;
+7	    scanf("%d", &n);
+8	    for (int i = 0; i < n; i++) {
+9	        scanf("%d", &a);
+10	        s += a;
+11	    }
+(gdb) ba
+#0  0x00007ffff7eb3ec2 in read () from /usr/lib/libc.so.6
+#1  0x00007ffff7e45542 in __GI__IO_file_underflow () from /usr/lib/libc.so.6
+#2  0x00007ffff7e467c6 in _IO_default_uflow () from /usr/lib/libc.so.6
+#3  0x00007ffff7e1dfb8 in __vfscanf_internal () from /usr/lib/libc.so.6
+#4  0x00007ffff7e1d012 in __isoc99_scanf () from /usr/lib/libc.so.6
+#5  0x000055555555518f in main () at B.c:7
+(gdb) help
+List of classes of commands:
+
+aliases -- User-defined aliases of other commands.
+breakpoints -- Making program stop at certain points.
+data -- Examining data.
+files -- Specifying and examining files.
+internals -- Maintenance commands.
+obscure -- Obscure features.
+running -- Running the program.
+stack -- Examining the stack.
+status -- Status inquiries.
+support -- Support facilities.
+text-user-interface -- TUI is the GDB text based interface.
+tracepoints -- Tracing of program execution without stopping the program.
+user-defined -- User-defined commands.
+
+Type "help" followed by a class name for a list of commands in that class.
+Type "help all" for the list of all commands.
+Type "help" followed by command name for full documentation.
+Type "apropos word" to search for commands related to "word".
+Type "apropos -v word" for full documentation of commands related to "word".
+Command name abbreviations are allowed if unambiguous.
+(gdb) q
+A debugging session is active.
+
+	Inferior 1 [process 264169] will be killed.
+
+Quit anyway? (y or n) y
+(base) [suraba04@asusx512fl лаб8]$ 
+
+
