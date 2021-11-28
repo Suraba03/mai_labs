@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="Материнская плата.svg">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="13.86834 : 144.7882 : 1"
+       inkscape:vp_y="0 : 1213.2706 : 0"
+       inkscape:vp_z="288.23282 : 144.7882 : 1"
+       inkscape:persp3d-origin="151.05059 : 84.731308 : 1"
+       id="perspective1256" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="471.51266"
+     inkscape:cy="698.71313"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.15534337"
+       id="rect147"
+       width="95.417053"
+       height="117.14357"
+       x="65.129082"
+       y="56.693508" />
+    <rect
+       id="rect10"
+       width="56.302269"
+       height="56.302269"
+       x="67.202454"
+       y="58.757595"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.16992804" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.797122px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="70.978813"
+       y="85.792984"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="70.978813"
+         y="85.792984"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.16992804">Северный мост</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.16992804"
+       id="rect16"
+       width="25.147203"
+       height="25.147203"
+       x="82.171822"
+       y="7.2315493" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.14714053"
+       id="rect28-6"
+       width="3.6232054"
+       height="26.395704"
+       x="92.666168"
+       y="32.371086" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.12658226"
+       id="rect75"
+       width="47.370731"
+       height="3.386626"
+       x="19.829443"
+       y="84.170349" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.16461898"
+       id="rect77"
+       width="5.6661024"
+       height="48.154228"
+       x="14.131592"
+       y="62.587055" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="-267.98511"
+       y="99.696426"
+       id="text81"><tspan
+         sodipodi:role="line"
+         id="tspan79"
+         x="-267.98511"
+         y="108.87933"
+         style="stroke-width:0.26458332;font-size:7.05555556px;" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05555556px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="-263.26041"
+       y="95.349701"
+       id="text85"><tspan
+         sodipodi:role="line"
+         id="tspan83"
+         x="-263.26041"
+         y="104.5326"
+         style="stroke-width:0.26458332;font-size:7.05555556px;" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="20.664848"
+       y="76.665901"
+       id="text95"><tspan
+         sodipodi:role="line"
+         id="tspan93"
+         x="20.664848"
+         y="76.665901"
+         style="stroke-width:0.16992804">Шина графического</tspan><tspan
+         sodipodi:role="line"
+         x="20.664848"
+         y="82.33017"
+         style="stroke-width:0.16992804"
+         id="tspan97">контроллера</tspan></text>
+    <rect
+       id="rect10-8"
+       width="91.809799"
+       height="45.291767"
+       x="66.699844"
+       y="126.74464"
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.19462262" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.797122px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="93.530212"
+       y="150.0631"
+       id="text14-1"><tspan
+         sodipodi:role="line"
+         id="tspan12-9"
+         x="93.530212"
+         y="150.0631"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:0.16992804">Южный мост</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.10363251"
+       id="rect28-1"
+       width="4.0707064"
+       height="11.654234"
+       x="94.200035"
+       y="115.06064" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="64.870552"
+       y="55.64587"
+       id="text95-6"><tspan
+         sodipodi:role="line"
+         x="64.870552"
+         y="55.64587"
+         style="stroke-width:0.16992804"
+         id="tspan97-7">Чипсет</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="99.449463"
+       y="121.46143"
+       id="text95-0"><tspan
+         sodipodi:role="line"
+         x="99.449463"
+         y="121.46143"
+         style="fill:#000000;stroke-width:0.16992804"
+         id="tspan97-0">Внутренняя шина</tspan></text>
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.16992804"
+       id="rect199"
+       width="4.9385343"
+       height="0.50068086"
+       x="93.713112"
+       y="114.99979" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.16992804"
+       id="rect201"
+       width="4.5592303"
+       height="0.38688976"
+       x="93.955872"
+       y="126.43959" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21292004"
+       id="rect203"
+       width="0.57654166"
+       height="4.1723409"
+       x="66.706688"
+       y="83.811806" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205"
+       width="0.43846738"
+       height="4.1850023"
+       x="19.748888"
+       y="83.784271" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21097957"
+       id="rect207"
+       width="4.3632288"
+       height="0.43532515"
+       x="92.282715"
+       y="58.366825" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.17846748"
+       id="rect209"
+       width="4.312788"
+       height="0.42913318"
+       x="92.281799"
+       y="32.331089" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="96.859917"
+       y="44.03159"
+       id="text95-0-9"><tspan
+         sodipodi:role="line"
+         x="96.859917"
+         y="44.03159"
+         style="fill:#000000;stroke-width:0.16992804"
+         id="tspan97-0-3">Системная шина</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.10155977"
+       id="rect235"
+       width="3.1581266"
+       height="19.915833"
+       x="82.876427"
+       y="171.98511" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.16992804"
+       id="rect245"
+       width="3.6473272"
+       height="46.225582"
+       x="15.075697"
+       y="63.515762"
+       ry="0" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.16992804"
+       id="rect249"
+       width="23.450739"
+       height="23.657969"
+       x="83.003471"
+       y="7.9545908"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.797122px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="88.908997"
+       y="21.032997"
+       id="text24-8"><tspan
+         sodipodi:role="line"
+         id="tspan22-2"
+         x="88.908997"
+         y="21.032997"
+         style="stroke-width:0.16992804">ЦПУ</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.12658226"
+       id="rect75-6"
+       width="47.370731"
+       height="3.386626"
+       x="-170.92668"
+       y="83.683479"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.16461898"
+       id="rect77-1"
+       width="5.6661034"
+       height="48.154232"
+       x="-176.62453"
+       y="62.100189"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21292004"
+       id="rect203-7"
+       width="0.57654166"
+       height="4.1723409"
+       x="-124.04943"
+       y="83.324944"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3"
+       width="0.43846738"
+       height="4.1850023"
+       x="-171.00723"
+       y="83.297409"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.16992804"
+       id="rect245-5"
+       width="3.6473272"
+       height="46.225582"
+       x="-175.68044"
+       y="63.0289"
+       ry="0"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.03438602"
+       id="rect75-6-4"
+       width="3.4030106"
+       height="3.4788222"
+       x="-180.0231"
+       y="83.551552"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.16461898"
+       id="rect77-1-1"
+       width="5.6661038"
+       height="48.154232"
+       x="-185.67487"
+       y="62.014362"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3"
+       width="0.43846738"
+       height="4.1850023"
+       x="-180.05757"
+       y="83.211594"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.16992804"
+       id="rect245-5-1"
+       width="3.6473272"
+       height="46.225582"
+       x="-184.73076"
+       y="62.943069"
+       ry="0"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-2"
+       width="0.43846738"
+       height="4.1850023"
+       x="-177.03674"
+       y="83.219742"
+       transform="scale(-1,1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="175.53142"
+       y="60.379581"
+       id="text95-4"><tspan
+         sodipodi:role="line"
+         x="175.53142"
+         y="60.379581"
+         style="stroke-width:0.16992804"
+         id="tspan97-8">Слоты ОЗУ</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="4.0605626"
+       y="54.796227"
+       id="text95-08"><tspan
+         sodipodi:role="line"
+         x="4.0605626"
+         y="54.796227"
+         style="stroke-width:0.16992804"
+         id="tspan97-4">Слот графического</tspan><tspan
+         sodipodi:role="line"
+         x="4.0605626"
+         y="60.460495"
+         style="stroke-width:0.16992804"
+         id="tspan396">контроллера</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.03438602"
+       id="rect75-6-4-0"
+       width="3.4030106"
+       height="3.4788225"
+       x="-189.00027"
+       y="83.594849"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.16461898"
+       id="rect77-1-1-8"
+       width="5.6661043"
+       height="48.154232"
+       x="-194.65202"
+       y="62.057663"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-1"
+       width="0.43846738"
+       height="4.1850023"
+       x="-189.03473"
+       y="83.25489"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.16992804"
+       id="rect245-5-1-0"
+       width="3.6473272"
+       height="46.225582"
+       x="-193.70792"
+       y="62.98637"
+       ry="0"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-2-7"
+       width="0.43846738"
+       height="4.1850023"
+       x="-186.0139"
+       y="83.263039"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.03438602"
+       id="rect75-6-4-6"
+       width="3.4030106"
+       height="3.4788225"
+       x="-197.92149"
+       y="83.412788"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.16461898"
+       id="rect77-1-1-2"
+       width="5.6661043"
+       height="48.154232"
+       x="-203.57324"
+       y="61.875595"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-21"
+       width="0.43846738"
+       height="4.1850023"
+       x="-197.95595"
+       y="83.072823"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.16992804"
+       id="rect245-5-1-8"
+       width="3.6473272"
+       height="46.225582"
+       x="-202.62914"
+       y="62.804302"
+       ry="0"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-2-9"
+       width="0.43846738"
+       height="4.1850023"
+       x="-194.93512"
+       y="83.080956"
+       transform="scale(-1,1)" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.09585917"
+       id="rect75-6-45-8"
+       width="27.166372"
+       height="3.386626"
+       x="39.540276"
+       y="127.82525" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.1362839"
+       id="rect77-1-5-5"
+       width="5.6661043"
+       height="33.003788"
+       x="33.716152"
+       y="112.82794" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21292004"
+       id="rect203-7-4-8"
+       width="0.57654166"
+       height="4.1723409"
+       x="66.213196"
+       y="127.46671" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-1-1"
+       width="0.43846738"
+       height="4.1850023"
+       x="39.333427"
+       y="127.48746" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.13956022"
+       id="rect245-5-5-3"
+       width="3.6481228"
+       height="31.173155"
+       x="34.659843"
+       y="113.6095"
+       ry="0" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.03438602"
+       id="rect75-6-4-60-5"
+       width="3.4030106"
+       height="3.4788225"
+       x="30.317587"
+       y="127.74159" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-13-6"
+       width="0.43846738"
+       height="4.1850023"
+       x="30.283129"
+       y="127.40163" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-2-1-2"
+       width="0.43846738"
+       height="4.1850023"
+       x="33.303967"
+       y="127.40978" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.1362839"
+       id="rect77-1-5-4-4"
+       width="5.6661043"
+       height="33.003788"
+       x="24.592363"
+       y="113.02117" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.13956022"
+       id="rect245-5-5-1-4"
+       width="3.6481228"
+       height="31.173155"
+       x="25.536057"
+       y="113.80273"
+       ry="0" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.09585917"
+       id="rect75-6-45-8-7"
+       width="27.166372"
+       height="3.386626"
+       x="39.47591"
+       y="167.71661" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.1362839"
+       id="rect77-1-5-5-0"
+       width="5.6661043"
+       height="33.003788"
+       x="33.651783"
+       y="152.71933" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21292004"
+       id="rect203-7-4-8-0"
+       width="0.57654166"
+       height="4.1723409"
+       x="66.148834"
+       y="167.35808" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-1-1-3"
+       width="0.43846738"
+       height="4.1850023"
+       x="39.269062"
+       y="167.37883" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.13956022"
+       id="rect245-5-5-3-6"
+       width="3.6481228"
+       height="31.173155"
+       x="34.595478"
+       y="153.50089"
+       ry="0" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.03438602"
+       id="rect75-6-4-60-5-2"
+       width="3.4030106"
+       height="3.4788225"
+       x="30.25322"
+       y="167.63297" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-13-6-2"
+       width="0.43846738"
+       height="4.1850023"
+       x="30.218763"
+       y="167.29301" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.21904181"
+       id="rect205-3-3-2-1-2-3"
+       width="0.43846738"
+       height="4.1850023"
+       x="33.239601"
+       y="167.30116" />
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.1362839"
+       id="rect77-1-5-4-4-1"
+       width="5.6661043"
+       height="33.003788"
+       x="24.527998"
+       y="152.91255" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.13956022"
+       id="rect245-5-5-1-4-8"
+       width="3.6481228"
+       height="31.173155"
+       x="25.471691"
+       y="153.69412"
+       ry="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="23.054913"
+       y="111.41972"
+       id="text95-08-0"><tspan
+         sodipodi:role="line"
+         x="23.054913"
+         y="111.41972"
+         style="stroke-width:0.16992804"
+         id="tspan396-1">Слоты PCI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="23.514097"
+       y="189.59842"
+       id="text95-08-0-4"><tspan
+         sodipodi:role="line"
+         x="23.514097"
+         y="189.59842"
+         style="stroke-width:0.16992804"
+         id="tspan396-1-1">Слоты PCI</tspan><tspan
+         sodipodi:role="line"
+         x="23.514097"
+         y="195.2627"
+         style="stroke-width:0.16992804"
+         id="tspan711">Express</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="41.366058"
+       y="126.25838"
+       id="text95-08-0-45"><tspan
+         sodipodi:role="line"
+         x="41.366058"
+         y="126.25838"
+         style="stroke-width:0.16992804"
+         id="tspan396-1-9">Шина PCI</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="41.077942"
+       y="175.35121"
+       id="text95-08-0-45-4"><tspan
+         sodipodi:role="line"
+         x="41.077942"
+         y="175.35121"
+         style="stroke-width:0.16992804"
+         id="tspan396-1-9-5">Шина PCI</tspan><tspan
+         sodipodi:role="line"
+         x="41.077942"
+         y="181.01549"
+         style="stroke-width:0.16992804"
+         id="tspan749">Express</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.23559964"
+       id="rect16-1"
+       width="34.865768"
+       height="34.865768"
+       x="67.163643"
+       y="191.89346" />
+    <rect
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.23559964"
+       id="rect249-0"
+       width="32.513676"
+       height="32.800995"
+       x="68.316711"
+       y="192.89594"
+       ry="0" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.1588653"
+       id="rect780"
+       width="4.5364809"
+       height="0.81930619"
+       x="82.197449"
+       y="191.17154" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.14902635"
+       id="rect782"
+       width="4.2633734"
+       height="0.71309108"
+       x="82.273323"
+       y="171.97879" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.797122px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="76.330086"
+       y="210.42502"
+       id="text24-8-6"><tspan
+         sodipodi:role="line"
+         id="tspan22-2-2"
+         x="76.330086"
+         y="210.42502"
+         style="stroke-width:0.16992804">BIOS</tspan></text>
+    <rect
+       style="fill:#b3b3b3;stroke:#000000;stroke-width:0.23662926"
+       id="rect77-9"
+       width="5.6190753"
+       height="100.33007"
+       x="182.40428"
+       y="125.3363" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.19904"
+       y="126.05914" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-9"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.19904"
+       y="135.0105" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-2"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.23489"
+       y="143.82126" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-3"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.2401"
+       y="152.71062" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-91"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.22968"
+       y="161.7562" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-01"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.29558"
+       y="170.91428" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-25"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.25266"
+       y="180.26938" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-4"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.29558"
+       y="189.367" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-45"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.20975"
+       y="198.3788" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-1"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.20975"
+       y="207.51935" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="166.7477"
+       y="117.66962"
+       id="text95-08-2"><tspan
+         sodipodi:role="line"
+         x="166.7477"
+         y="117.66962"
+         style="stroke-width:0.16992804"
+         id="tspan948">Разъёмы на</tspan><tspan
+         sodipodi:role="line"
+         x="166.7477"
+         y="123.33389"
+         style="stroke-width:0.16992804"
+         id="tspan952">материнской плате</tspan></text>
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.15293695"
+       id="rect954"
+       width="23.976414"
+       height="3.5369308"
+       x="158.47951"
+       y="132.24962" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.1524509"
+       id="rect954-9"
+       width="23.824253"
+       height="3.5369308"
+       x="158.50945"
+       y="147.09645" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.15278883"
+       id="rect954-1"
+       width="23.929989"
+       height="3.5369308"
+       x="158.50952"
+       y="164.04111" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16977452"
+       id="rect993"
+       width="3.5806277"
+       height="26.654753"
+       x="150.58591"
+       y="172.05736" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect995"
+       width="31.800825"
+       height="3.5199306"
+       x="150.58591"
+       y="195.1922" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.22053237"
+       id="rect993-1"
+       width="3.5300233"
+       height="45.620064"
+       x="130.91808"
+       y="172.04634" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.21734889"
+       id="rect995-5"
+       width="51.401508"
+       height="3.5627174"
+       x="130.91808"
+       y="214.1037" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="160.84229"
+       y="130.92296"
+       id="text1029"><tspan
+         sodipodi:role="line"
+         id="tspan1027"
+         x="160.84229"
+         y="130.92296"
+         style="stroke-width:0.16992804">IDE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="160.81776"
+       y="146.23904"
+       id="text1033"><tspan
+         sodipodi:role="line"
+         id="tspan1031"
+         x="160.81776"
+         y="146.23904"
+         style="stroke-width:0.16992804">SATA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="161.50372"
+       y="161.66429"
+       id="text1037"><tspan
+         sodipodi:role="line"
+         id="tspan1035"
+         x="161.50372"
+         y="161.66429"
+         style="stroke-width:0.16992804">USB</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="155.22641"
+       y="193.23233"
+       id="text1041"><tspan
+         sodipodi:role="line"
+         id="tspan1039"
+         x="155.22641"
+         y="193.23233"
+         style="stroke-width:0.16992804">Ethernet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="159.02484"
+       y="211.53516"
+       id="text1045"><tspan
+         sodipodi:role="line"
+         id="tspan1043"
+         x="159.02484"
+         y="211.53516"
+         style="stroke-width:0.16992804">Аудио</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="86.559456"
+       y="182.38689"
+       id="text1049"><tspan
+         sodipodi:role="line"
+         id="tspan1047"
+         x="86.559456"
+         y="182.38689"
+         style="stroke-width:0.16992804">Шина LPC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.53141499px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16992804"
+       x="124.92226"
+       y="81.594345"
+       id="text95-0-1"><tspan
+         sodipodi:role="line"
+         x="124.92226"
+         y="81.594345"
+         style="fill:#000000;stroke-width:0.16992804"
+         id="tspan97-0-8">Шина памяти</tspan></text>
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.25966778"
+       id="rect1073"
+       width="4.8776689"
+       height="0.81016076"
+       x="130.33565"
+       y="171.97632" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.25966778"
+       id="rect1073-7"
+       width="4.8776689"
+       height="0.81016076"
+       x="149.91489"
+       y="171.99731" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.30276766"
+       id="rect1090"
+       width="0.66862339"
+       height="4.5751009"
+       x="181.79938"
+       y="131.69482" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.30276766"
+       id="rect1090-7"
+       width="0.66862339"
+       height="4.5751009"
+       x="158.41269"
+       y="131.66246" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.30276766"
+       id="rect1090-3"
+       width="0.66862339"
+       height="4.5751009"
+       x="158.37367"
+       y="146.62843" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.30276766"
+       id="rect1090-3-9"
+       width="0.66862339"
+       height="4.5751009"
+       x="158.40709"
+       y="163.49982" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.30276766"
+       id="rect1090-3-2"
+       width="0.66862339"
+       height="4.5751009"
+       x="181.79317"
+       y="163.54993" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.30276766"
+       id="rect1090-3-0"
+       width="0.66862339"
+       height="4.5751009"
+       x="181.80988"
+       y="146.5616" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.30276766"
+       id="rect1090-3-5"
+       width="0.66862339"
+       height="4.5751009"
+       x="181.77716"
+       y="194.6843" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:0.30276766"
+       id="rect1090-3-08"
+       width="0.66862339"
+       height="4.5751009"
+       x="181.79115"
+       y="213.68381" />
+    <rect
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.26458332"
+       id="rect1171"
+       width="3.311636"
+       height="0.4552002"
+       x="131.02472"
+       y="213.81235" />
+    <rect
+       style="fill:#e6e6e6;stroke:none;stroke-width:0.26458332"
+       id="rect1175"
+       width="3.412339"
+       height="0.54685974"
+       x="150.67111"
+       y="194.88843" />
+    <rect
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:0.16992804"
+       id="rect825-1-1"
+       width="3.9694817"
+       height="8.1320753"
+       x="183.2627"
+       y="216.65742" />
+  </g>
+</svg>

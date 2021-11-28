@@ -1,0 +1,54 @@
+terminal 1:
+
+[suraba04@asusx512fl ~]$ who
+suraba04 :1           2020-09-17 14:38 (:1)
+[suraba04@asusx512fl ~]$ pwd
+/home/suraba04
+[suraba04@asusx512fl ~]$ scp chekmenev@45.141.101.145:/home/chekmenev/cat/502.jpg ~
+chekmenev@45.141.101.145's password: 
+502.jpg                                                                                                                                                                          100%   44KB   3.1MB/s   00:00    
+[suraba04@asusx512fl ~]$ tar -cvf hw.tar pict.jpg
+pict.jpg
+[suraba04@asusx512fl ~]$ ls
+ 1         Bettergram   CS          hw.tar         Music       Pictures  'System Volume Information'   Videos     вычсист     Загрузки    команды       матан         таблетки
+ 13        c1           Documents   labs           ostechnix   png2jpg    Templates                    x.mmb      дискрмат    календарь   линал_ангем   поступление   фундинф
+ 502.jpg   c1.o         Downloads   movies_anime   pict.jpg    study      to_do                        волейбол   документы   книги       манга_книги   РЯиКР         Шаблоны
+[suraba04@asusx512fl ~]$ scp ~/hw.tar chekmenev@45.141.101.145:/home/chekmenev/home_work
+chekmenev@45.141.101.145's password: 
+hw.tar                                                                                                                                                                           100%   30KB   1.7MB/s   00:00    
+
+
+
+terminal 2:
+
+[suraba04@asusx512fl ~]$ ssh chekmenev@45.141.101.145
+chekmenev@45.141.101.145's password:
+Welcome to Ubuntu 16.04.1 LTS (GNU/Linux 4.4.0-34-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+125 packages can be updated.
+1 update is a security update.
+
+New release '18.04.5 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+*** System restart required ***
+
+chekmenev@workshop:~$ ls
+cat
+chekmenev@workshop:~$ cd cat
+chekmenev@workshop:~/cat$ ls
+502.jpg
+chekmenev@workshop:~/cat$ pwd
+/home/chekmenev/cat
+chekmenev@workshop:~/cat$ cd /home/chekmenev
+chekmenev@workshop:~$ mkdir home_work
+chekmenev@workshop:~$ ls
+cat  home_work
+chekmenev@workshop:~$ cd home_work
+chekmenev@workshop:~/home_work$ ls
+hw.tar

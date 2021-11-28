@@ -1,0 +1,5 @@
+scp, tar
+my picture on server there:  ~/cat/502.jpg
+	  		     /home/chekmenev/cat
+
+scp shar@45.141.101.145:/home/shar/cat/412.jpg /home/alexey
