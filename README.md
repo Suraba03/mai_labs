@@ -1,4 +1,4 @@
-# There is all my code for 2nd semester of 1st year
+# There is all my code for 1st and 2nd semester of 1st year
 
 ## each folder has nested folder `code_data` - there is code, data and MakeFile
 
