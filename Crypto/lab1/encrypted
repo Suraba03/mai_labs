@@ -1,0 +1,64 @@
+Content-Type: multipart/signed; micalg=pgp-sha256;
+ protocol="application/pgp-signature";
+ boundary="------------2Dz09pyWijypPihG0xG5hZqH"
+
+This is an OpenPGP/MIME signed message (RFC 4880 and 3156)
+--------------2Dz09pyWijypPihG0xG5hZqH
+Content-Type: multipart/mixed; boundary="------------NBTjqFXvbU5Dx9OK636U8TrR";
+ protected-headers="v1"
+Subject: =?UTF-8?B?UmU6IGxhYjEgLS0g0KfQtdC60LzQtdC90LXQsiDQstGP0YfQtdGB0Ls=?=
+ =?UTF-8?B?0LDQsg==?=
+From: awh <awh@cs.msu.ru>
+To: =?UTF-8?B?VG9tIEdyb8Of?= <chekmenev031@gmail.com>
+Message-ID: <b2dd1720-1b90-3f63-9394-9987c1b1250b@cs.msu.ru>
+References: <CADLk9Vj+rod=dN51+YRX9dExkC6bT1M16Xn4Y=7+nQeGxHKN-g@mail.gmail.com>
+In-Reply-To: <CADLk9Vj+rod=dN51+YRX9dExkC6bT1M16Xn4Y=7+nQeGxHKN-g@mail.gmail.com>
+
+--------------NBTjqFXvbU5Dx9OK636U8TrR
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: base64
+
+0KLQtdC60YHRgiDQv9C+0LvRg9GH0LjQuyDQuCDRgNCw0YHRiNC40YTRgNC+0LLQsNC7Lg0K
+DQpgYGANClRoaXMgaXMgYSBwdWJsaWMgc2VydmljZSBhbm5vdW5jZW1lbnQNCldpdGggZ3Vp
+dGFyDQpLbm93IHlvdXIgcmlnaHRzDQpBbGwgdGhyZWUgb2YgdGhlbQ0KTnVtYmVyIG9uZQ0K
+WW91IGhhdmUgdGhlIHJpZ2h0IG5vdCB0byBiZSBraWxsZWQNCk11cmRlciBpcyBhIGNyaW1l
+DQpVbmxlc3MgaXQgd2FzIGRvbmUNCkJ5IGEgcG9saWNlbWFuDQpPciBhbiBhcmlzdG9jcmF0
+DQpPaCwga25vdyB5b3VyIHJpZ2h0cw0KQW5kIG51bWJlciB0d28NCllvdSBoYXZlIHRoZSBy
+aWdodCB0byBmb29kIG1vbmV5DQpQcm92aWRpbmcgb2YgY291cnNlDQpZb3UgZG9uJ3QgbWlu
+ZCBhIGxpdHRsZQ0KSW52ZXN0aWdhdGlvbiwgaHVtaWxpYXRpb24NCkFuZCBpZiB5b3UgY3Jv
+c3MgeW91ciBmaW5nZXJzDQpSZWhhYmlsaXRhdGlvbg0KS25vdyB5b3VyIHJpZ2h0cw0KVGhl
+c2UgYXJlIHlvdXIgcmlnaHRzDQpIZXksIHNheSwgV2FuZw0KT2gsIGtub3cgdGhlc2Ugcmln
+aHRzDQpOdW1iZXIgdGhyZWUNCllvdSBoYXZlIHRoZSByaWdodCB0byBmcmVlIHNwZWVjaA0K
+QXMgbG9uZyBhcw0KWW91J3JlIG5vdCBkdW1iIGVub3VnaCB0byBhY3R1YWxseSB0cnkgaXQN
+Cktub3cgeW91ciByaWdodHMNClRoZXNlIGFyZSB5b3VyIHJpZ2h0cw0KT2gsIGtub3cgeW91
+ciByaWdodHMNClRoZXNlIGFyZSB5b3VyIHJpZ2h0cw0KQWxsIHRocmVlIG9mICdlbQ0KSGEh
+DQpJdCBoYXMgYmVlbiBzdWdnZXN0ZWQgaW4gc29tZSBxdWFydGVycw0KVGhhdCB0aGlzIGlz
+IG5vdCBlbm91Z2gNCldlbGwNCkdldCBvZmYgdGhlIHN0cmVldHMNClJ1bg0KR2V0IG9mZiB0
+aGUgc3RyZWV0cw0KYGBgDQoNCjA0LjAzLjIwMjMgMTA6MTEsIFRvbSBHcm/DnyDQv9C40YjQ
+tdGCOg0KPiDRhNCw0LnQuyDQuCDQvNC+0Lkg0L7RgtC60YDRi9GC0YvQuSDQutC70Y7Rhw0K
+
+
+--------------NBTjqFXvbU5Dx9OK636U8TrR--
+
+--------------2Dz09pyWijypPihG0xG5hZqH
+Content-Type: application/pgp-signature; name="OpenPGP_signature.asc"
+Content-Description: OpenPGP digital signature
+Content-Disposition: attachment; filename="OpenPGP_signature"
+
+-----BEGIN PGP SIGNATURE-----
+
+wsF5BAABCAAjFiEE5W8b6rNEcsHXjtm0PZjpbKTg6WQFAmQFl34FAwAAAAAACgkQPZjpbKTg6WTi
+vw//UXKPcOb72KqEll2SZFo/I/kZy2ad5P9qf0aiUvqtrGY18em2tqcbysENe1Xy5JGoxAh0Bks+
+c8ADxl7psarvqkgFsG2A9Dl0h5QfFXDZqkTZb0GEfCvhBqIHBIhfJPpmDeI2n7edQ1/30fj4Ym/o
+ZhAcl/57aUX3NBkSUZLpEVZmROMoA8838VpA7JB+dunYFxPCd9l42MDlxOEslsq/FryCIcO7mdj8
+kTzAdFkcqJFwTe7BIY1mNL6FOc/AdpiKGzioEAPptf+5vk0B6rISNWZHtwXd+ftep45624YxkN2v
+Cu7+yoKErLcEWlEvfPPfPwV1ze/p9Ea8y1QrgDqHzMQRue9uFLNGXNJ2uO9OT3nkt7miryb308+7
+aY5Yjo37+nAHCyVlSshMKvYxKX+eR4qWPqvTqkrywR/nIm0kVUllJfexRSjWFqDjy+RVHMfuLBS2
+8ldY2pOLwNgLbZGLD9csvvDMVGKehIWuqoYTFLZeRM3dK0C+VF4gckKCFtvUgJOHV1uJ8ZcKigEK
+0YQHc6Wbi4bvPI4cnQc6AqiCnfIYcx7qeryrTQ78oUBuTF6al9TiGV+/N8LjgKd5YwDZqNZuAdkv
+IZTGmFxCMV5SNtTdk1NFH9VtpqUKVDQnQk4m1m8uzqC3uG2VFXLX8AP+x4ISwSM9rARNm4TrzHDQ
+2fk=
+=Pioo
+-----END PGP SIGNATURE-----
+
+--------------2Dz09pyWijypPihG0xG5hZqH--
